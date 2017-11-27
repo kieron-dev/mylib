@@ -4,8 +4,8 @@
 [[projects]]
   name = "github.com/kieron-pivotal/somelib"
   packages = ["."]
-  revision = "2236607c41567134d2b85220af58441b68d3355a"
-  version = "v0.9.0"
+  revision = "2444d9980946b71070b1907c94e73c5989755722"
+  version = "v1.2.0"
 
 [[projects]]
   name = "github.com/onsi/ginkgo"
@@ -46,6 +46,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "70d169a01a8a674eb973209b70adb7f3f7528c45b8aeb33f423e0d5bcdaf07b5"
+  inputs-digest = "345434d0199acf5ae9f38897a2af67c311b25402e8d53135bc0a0da294d9ad0d"
   solver-name = "gps-cdcl"
   solver-version = 1
